@@ -10,7 +10,7 @@ This is my GIThub page. You can follow me on the these pages:
 
 ### My Research Project
 
-My research project is ![Image](https://lingtalfi.com/services/pngtext?color=cc0000&size=10&text=robust%20patient%20scheduling) in molecular imaging center with particular attention to time-sensitive pharmaceuticals.  I am currently working on mapping scheduling and combinatorial optimization theories onto a management system of a medical (diagnostic) center with radio-pharmaceuticals. Moreover, I would like to tailor data-driven robust optimization tools and apply them to capture scheduling uncertainties in such environment.
+My research project is **robust patient scheduling** in molecular imaging center with particular attention to time-sensitive pharmaceuticals.  I am currently working on mapping scheduling and combinatorial optimization theories onto a management system of a medical (diagnostic) center with radio-pharmaceuticals. Moreover, I would like to tailor data-driven robust optimization tools and apply them to capture scheduling uncertainties in such environment.
 
 ### Research Interests
 ```markdown
