@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Mohammad Namakshenas's GIT page
 
-You can use the [editor on GitHub](https://github.com/namakshenas/namakshenas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my GIThub page. You can follow me on the these pages:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://ortimes.ir/wp-content/documents/logo_res4.png){:height="2%" width="2%"} [Website - ortimes.ir](https://ortimes.ir/)
 
-### Markdown
+![Image](https://ortimes.ir/wp-content/documents/Linkedin.ico){:height="2%" width="2%"} [Linkden](https://www.linkedin.com/in/mohammad-namakshenas-20/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://www.researchgate.net/favicon.ico){:height="2%" width="2%"} [ResearchGate](https://www.researchgate.net/profile/Mohammad_Namakshenas)
 
+### My Research Project
+
+My research project is **robust patient scheduling** in molecular imaging center with particular attention to time-sensitive pharmaceuticals.  I am currently working on mapping scheduling and combinatorial optimization theories onto a management system of a medical (diagnostic) center with radio-pharmaceuticals. Moreover, I would like to tailor data-driven robust optimization tools and apply them to capture scheduling uncertainties in such environment.
+
+### Research Interests
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Health-care operations research
+- Data-driven robust optimization
+- Scheduling theory
+- Complexity theory
+- Data analytics
+- Approximation algorithms
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/namakshenas/namakshenas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see **[ortimes.ir](https://ortimes.ir/)**.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having question? You can visit my website and we’ll help you sort it out!
