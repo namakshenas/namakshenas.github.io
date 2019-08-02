@@ -10,7 +10,10 @@ This is my GIThub page. You can follow me on the these pages:
 
 ### My Research Project
 
-My research project is **robust patient scheduling** in molecular imaging center with particular attention to time-sensitive pharmaceuticals.  I am currently working on mapping scheduling and combinatorial optimization theories onto a management system of a medical (diagnostic) center with radio-pharmaceuticals. Moreover, I would like to tailor data-driven robust optimization tools and apply them to capture scheduling uncertainties in such environment.
+My research project is **robust patient scheduling** in molecular imaging center with particular attention to time-sensitive pharmaceuticals.  I am currently working on mapping scheduling and combinatorial optimization theories onto a management system of a medical (diagnostic) center with radio-pharmaceuticals. Moreover, I would like to tailor data-driven robust optimization tools and apply them to capture scheduling uncertainties in such environment. You can find some of my papers attached to this research project:
+
+1. [Minimizing Earliness and Tardiness on a Single Machine with a Periodically Supplied Non-renewable Resource](http://www.optimization-online.org/DB_HTML/2019/06/7237.html)
+2. [An Optimal Polynomial Algorithm for Minimizing Total Earliness and Tardiness on a Single Machine with Equal Processing Times](http://www.optimization-online.org/DB_HTML/2019/07/7280.html)
 
 ### Research Interests
 ```markdown
