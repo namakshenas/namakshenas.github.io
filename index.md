@@ -14,7 +14,7 @@ My research project is **robust patient scheduling** in molecular imaging center
 
 1. [Minimizing Earliness and Tardiness on a Single Machine with a Periodically Supplied Non-renewable Resource](http://www.optimization-online.org/DB_HTML/2019/06/7237.html)
 
-2. [An Optimal Polynomial Algorithm for Minimizing Total Earliness and Tardiness on a Single Machine with Equal Processing Times](http://www.optimization-online.org/DB_HTML/2019/07/7280.html)
+2. [Migration from Sequence to Schedule in Total Earliness and Tardiness Scheduling Problem](http://www.optimization-online.org/DB_HTML/2019/07/7280.html)
 
 ### Research Interests
 ```markdown
