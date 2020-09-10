@@ -2,11 +2,11 @@
 
 This is my GIThub page. You can follow me on the these pages:
 
-![Image](https://ortimes.ir/wp-content/documents/logo_res4.png){:height="2%" width="2%"} [Website - ortimes.ir](https://ortimes.ir/)
+[Website - ortimes.ir](https://ortimes.ir/)
 
-![Image](https://ortimes.ir/wp-content/documents/Linkedin.ico){:height="2%" width="2%"} [Linkden](https://www.linkedin.com/in/mohammad-namakshenas-20/)
+[Linkden](https://www.linkedin.com/in/mohammad-namakshenas-20/)
 
-![Image](https://www.researchgate.net/favicon.ico){:height="2%" width="2%"} [ResearchGate](https://www.researchgate.net/profile/Mohammad_Namakshenas)
+[ResearchGate](https://www.researchgate.net/profile/Mohammad_Namakshenas)
 
 ### My Research Project
 
