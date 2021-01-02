@@ -16,6 +16,8 @@ My research project is **robust patient scheduling** in molecular imaging center
 
 2. [Migration from Sequence to Schedule in Total Earliness and Tardiness Scheduling Problem](http://www.optimization-online.org/DB_HTML/2019/07/7280.html)
 
+3. [Appointment Scheduling for Medical Diagnostic Clinic considering Time-sensitive Pharmaceuticals: A Dynamic Robust Optimization Approach](https://ortimes.ir/wp-content/documents/Appointment_Scheduling.pdf)
+
 ### Research Interests
 ```markdown
 - Health-care operations research
