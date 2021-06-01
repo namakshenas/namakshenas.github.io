@@ -18,6 +18,8 @@ My research project is **robust patient scheduling** in molecular imaging center
 
 3. [Appointment Scheduling for Medical Diagnostic Clinic considering Time-sensitive Pharmaceuticals: A Dynamic Robust Optimization Approach](https://ortimes.ir/wp-content/documents/Appointment_Scheduling.pdf)
 
+4. [A Mathematical Model for Production and Inventory Management of Time-sensitive Pharmaceutical in a Molecular Imaging Center](http://www.journal-dmor.ir/article_129906.html?lang=fa)
+
 ### Research Interests
 ```markdown
 - Health-care operations research
